@@ -8,7 +8,7 @@
 #include <termios.h>
 #include <sys/select.h>
 #include <pthread.h>
-
+ffffff
 int rs422_fd_s0;
 static struct termios option_old;
 //´®¿Ú³õÊ¼»¯
